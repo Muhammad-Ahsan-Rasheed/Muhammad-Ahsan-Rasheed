@@ -1,9 +1,13 @@
+
 ------------
 # About Me:
 My name is ***Muhammad Ahsan***. I'm the student of Computer Engineering and very much Passionate about Programming and making Things. Love to lead and collaborate with different Peoples.
 
 ------------
 ![Muhammad Ahsan 's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Ahsan-Rasheed&show_icons=true&theme=dark)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahsan-Rasheed&theme=dark&layout=compact" />
+
 
 <!--
 **Muhammad-Ahsan-Rasheed/Muhammad-Ahsan-Rasheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
