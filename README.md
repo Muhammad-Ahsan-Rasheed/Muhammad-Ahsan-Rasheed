@@ -13,9 +13,6 @@
 
 ------------
 
-
-
-
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Muhammad Ahsan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ahsan-Rasheed&theme=chartreuse-dark&hide_border=true&stroke=0000"/>
@@ -23,9 +20,22 @@
 </p>
 
 
+------------
+
 # GitHub Stats
 
 ![Muhammad Ahsan 's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Ahsan-Rasheed&show_icons=true&theme=chartreuse-dark&icon_color=6AD600&count_private=True) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahsan-Rasheed&theme=chartreuse-dark&layout=compact" width = "413"/>
 
+
+------------
+
 # GitHub Contribution Graph
 [![Muhammad Ahsan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muhammad-Ahsan-Rasheed&color=FFFFFF&line=6AD600&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+------------
+
+
+# Connect with ME
+<p align="left" dir="auto">
+<p dir="auto"><a href="https://www.linkedin.com/in/m-ahsan-rasheed/" rel="nofollow"><img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/linkedin.png" style="max-width: 100%;"></a>
+</p>
