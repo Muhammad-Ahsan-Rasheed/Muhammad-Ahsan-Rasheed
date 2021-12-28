@@ -12,7 +12,7 @@ My name is ***Muhammad Ahsan***. I'm the student of **Computer Engineering** and
 
 # GitHub Stats
 
-![Muhammad Ahsan 's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Ahsan-Rasheed&show_icons=true&theme=dark) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahsan-Rasheed&theme=dark&layout=compact" width = "413"/>
+![Muhammad Ahsan 's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Ahsan-Rasheed&show_icons=true&theme=chartreuse-dark&icon_color=6AD600&count_private=True) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahsan-Rasheed&theme=chartreuse-dark&layout=compact" width = "413"/>
 
 # GitHub Contribution Graph
-[![Muhammad Ahsan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muhammad-Ahsan-Rasheed&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Muhammad Ahsan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muhammad-Ahsan-Rasheed&color=FFFFFF&line=6AD600&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
