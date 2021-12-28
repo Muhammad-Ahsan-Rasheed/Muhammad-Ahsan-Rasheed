@@ -1,25 +1,18 @@
+<a href="#"><img width="100%" height="auto" src="https://github.com/Muhammad-Ahsan-Rasheed/Muhammad-Ahsan-Rasheed/blob/main/assets/Gamer%20Facebook%20Cover%20Template.gif"  height="175px"/></a>
 
-------------
-# About Me:
-My name is ***Muhammad Ahsan***. I'm the student of Computer Engineering and very much Passionate about Programming and making Things. Love to lead and collaborate with different Peoples.
+My name is ***Muhammad Ahsan***. I'm the student of **Computer Engineering** and very much Passionate about Programming and making Things. Love to lead and collaborate with different Peoples. Currently learning and Exploring Python and Machine Learning.
 
-------------
-![Muhammad Ahsan 's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Ahsan-Rasheed&show_icons=true&theme=dark)
+<p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Muhammad Ahsan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ahsan-Rasheed&theme=chartreuse-dark&hide_border=true&stroke=0000"/>
+    </a>
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahsan-Rasheed&theme=dark&layout=compact" />
+[TOCM]
 
+# GitHub Stats
 
-<!--
-**Muhammad-Ahsan-Rasheed/Muhammad-Ahsan-Rasheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Muhammad Ahsan 's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Ahsan-Rasheed&show_icons=true&theme=dark) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahsan-Rasheed&theme=dark&layout=compact" width = "413"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# GitHub Contribution Graph
+[![Muhammad Ahsan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muhammad-Ahsan-Rasheed&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
