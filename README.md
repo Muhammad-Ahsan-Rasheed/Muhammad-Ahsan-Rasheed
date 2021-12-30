@@ -21,6 +21,21 @@
 </p>
 
 ------------
+# About ME:
+
+- I am currently working on **Project Euler**.
+
+- I am currently learning **Dynamic Programming**.
+
+- I am looking to collaborate on **OpenSource Projects**.
+
+- All of my projects are available at My Portfolio.
+
+- How to reach me rasheedahsan311@gmail.com
+
+- Fun fact I listen to Music and go to the GYM very often.
+
+------------
 
 # GitHub Stats
 <p align="center">
