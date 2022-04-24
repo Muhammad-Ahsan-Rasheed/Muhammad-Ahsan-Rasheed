@@ -33,8 +33,9 @@
 - Fun fact I listen to Music and go to the GYM very often.
 
 ------------
+# GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Muhammad-Ahsan-Rasheed)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Muhammad-Ahsan-Rasheed&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ------------
 
