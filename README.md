@@ -34,6 +34,10 @@
 
 ------------
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Muhammad-Ahsan-Rasheed)](https://github.com/ryo-ma/github-profile-trophy)
+
+------------
+
 # GitHub Stats
 <p align="center">
 <img alt = "Muhammad Ahsan 's GitHub stats"src=https://github-readme-stats.vercel.app/api?username=Muhammad-Ahsan-Rasheed&show_icons=true&theme=chartreuse-dark&icon_color=6AD600&count_private=True&border_radius=10 /> 
