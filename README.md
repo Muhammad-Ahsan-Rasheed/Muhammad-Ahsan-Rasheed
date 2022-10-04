@@ -39,14 +39,6 @@
 
 ------------
 
-# GitHub Stats
-<p align="center">
-<img alt = "Muhammad Ahsan 's GitHub stats"src=https://github-readme-stats.vercel.app/api?username=Muhammad-Ahsan-Rasheed&show_icons=true&theme=chartreuse-dark&icon_color=6AD600&count_private=True&border_radius=10 /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahsan-Rasheed&theme=chartreuse-dark&border_radius=10" width = "205"/> </p>
-
-`P.S: Programming languages showed are based on projets I worked on.`
-------------
-
 
 # GitHub Contribution Graph
 [![Muhammad Ahsan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muhammad-Ahsan-Rasheed&color=FFFFFF&line=6AD600&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
