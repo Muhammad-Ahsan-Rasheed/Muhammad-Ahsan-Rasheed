@@ -45,7 +45,7 @@
 ------------
 
 # GitHub Contribution Graph
-[![Muhammad Ahsan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muhammad-Ahsan-Rasheed&color=FFFFFF&line=6AD600&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ahsan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Muhammad-Ahsan-Rasheed&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ------------
 
