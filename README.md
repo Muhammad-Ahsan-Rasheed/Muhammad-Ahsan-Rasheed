@@ -20,7 +20,7 @@
 ------------
 # About ME:
 
-- I am currently working on **Project Euler**.
+- I am currently working on **Machine Learning**.
 
 - I am currently learning **Dynamic Programming**.
 
