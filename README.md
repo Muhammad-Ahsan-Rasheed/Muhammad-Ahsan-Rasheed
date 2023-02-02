@@ -20,7 +20,7 @@
 ------------
 # About ME:
 
-- I am currently working on **Machine Learning**.
+- I am currently working on **Artificial Intelligence**.
 
 - I am currently learning **Dynamic Programming**.
 
