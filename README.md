@@ -44,11 +44,6 @@
 
 ------------
 
-# GitHub Contribution Graph
-[![Ahsan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Muhammad-Ahsan-Rasheed&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-------------
-
 
 # Connect with ME
 <p align="center" dir="auto">
