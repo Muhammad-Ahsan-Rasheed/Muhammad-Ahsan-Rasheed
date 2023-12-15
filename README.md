@@ -22,7 +22,7 @@
 
 - I am currently working on **Artificial Intelligence**.
 
-- I am currently learning **ChatGPT Fine-Tuning**.
+- I am currently learning **Building Systems with the LLMs**.
 
 - I am looking to collaborate on **OpenSource Projects**.
 
